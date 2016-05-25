@@ -1,0 +1,7 @@
+{
+  "name": "electron-sandbox",
+  "version": "0.1.0",
+  "description": "A sandbox Electron application based on their Quick Start guide",
+  "main": "main.js",
+  "homepage": "http://electron.atom.io/docs/tutorial/quick-start/"
+}
