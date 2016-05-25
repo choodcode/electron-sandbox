@@ -3,5 +3,14 @@
   "version": "0.1.0",
   "description": "A sandbox Electron application based on their Quick Start guide",
   "main": "main.js",
-  "homepage": "http://electron.atom.io/docs/tutorial/quick-start/"
+  "repository" :
+      {
+        "type" : "git"
+        ,"url" : "https://github.com/choodcode/electron-sandbox.git"
+      },
+  "license": "MIT",
+  "homepage": "http://electron.atom.io/docs/tutorial/quick-start/",
+  "devDependencies": {
+    "electron-prebuilt": "^1.1.2"
+  }
 }
